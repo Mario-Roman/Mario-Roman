@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mario-Roman
 - 👀 I’m interested in ... lerning to code
 - 🌱 I’m currently learning ... TheOdinProject
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... Each project i can :)
 - 📫 How to reach me ... Reach me on Discord
 
 <!---
