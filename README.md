@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mario-Roman
-- 👀 I’m interested in ... lerning to code
-- 🌱 I’m currently learning ... TheOdinProject
+- 👀 I’m interested in ... Web development
+- 🌱 I’m currently learning ... Java, JavaScript, React.
 - 💞️ I’m looking to collaborate on ... Each project i can :)
 - 📫 How to reach me ... Reach me on Discord
 
