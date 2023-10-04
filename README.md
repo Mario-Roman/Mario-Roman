@@ -7,7 +7,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 ```javascript
 const Mario = {
   currentFocus: "Fullstack Developer",
-  code: ["Javascript", "HTML5", "CSS", "React"],
+  code: ["Java", "Python","Javascript", "HTML5", "CSS", "React"],
   tools: ["Git", "Github", "ServiceNow", "GH projects", "Figma", "Trello"],
   architecture: ["Progressive web applications", "Single page applications"],
   challenge: "Learn something new every day",
